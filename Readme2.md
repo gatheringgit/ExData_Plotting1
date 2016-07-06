@@ -1,0 +1,1 @@
+## The R scripts are intended to be run from within a working directory that includes the unzipped text file of the original dataset ("household_power_consumption.txt").
